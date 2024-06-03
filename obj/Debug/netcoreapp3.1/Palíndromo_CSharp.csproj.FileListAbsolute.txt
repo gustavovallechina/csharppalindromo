@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.exe
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.deps.json
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.runtimeconfig.json
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.dll
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\bin\Debug\netcoreapp3.1\Palíndromo_CSharp.pdb
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.dll
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.pdb
+C:\Users\gusta\source\repos\Palíndromo_CSharp\Palíndromo_CSharp\obj\Debug\netcoreapp3.1\Palíndromo_CSharp.genruntimeconfig.cache
